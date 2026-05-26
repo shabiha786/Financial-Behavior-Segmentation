@@ -13,7 +13,7 @@ The goal is to identify meaningful behavioral segments based on income, expenses
 
 | Name | Role | GitHub |
 | :--- | :--- | :--- |
-| **Sanman Kadam** | Data Analyst / Data Scientist | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-irritater) |
+| **Shabiha Rayeen** | Data Analyst / Data Scientist | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-irritater) |
 
 ## 📊 Project Information
 
